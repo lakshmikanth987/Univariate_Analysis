@@ -11,7 +11,7 @@ Titile  :  Univariate Analysis
 import pandas as pd
 
 #Imorting the csv file
-data_retirval = pd.read_csv(r"F:\NMIMS\Trimester\Trim - 4\Data Analytics tools & Techniques\Python\Univariate Analysis\Video games\vgsales.csv", encoding='latin-1')
+data_retirval = pd.read_csv(r"******\Python\Univariate Analysis\Video games\vgsales.csv", encoding='latin-1')
 
 print(data_retirval.columns)
 
